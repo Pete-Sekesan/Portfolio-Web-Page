@@ -17,3 +17,24 @@ p {
     color: #E8F7EE;
     font-family: "Courier New", "san-serif";
 }
+
+a {
+    font-size: 16px;
+    font-family: "Verdana", "sans-serif";
+}
+
+a:link {
+    color: #C9D6EA;
+}
+
+a:visited {
+    color: #663F46;
+}
+
+a:hover {
+    color: #414E44;
+}
+
+a:active {
+    color: #4F7ABA;
+}
