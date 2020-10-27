@@ -1,7 +1,7 @@
 /* ----Structure---- */
 
 body {
-    background-color: #e0fbfc;
+    background-color: #B8C4BB;
     font-family: "Times", "sans-serif";
 }
 
@@ -9,5 +9,11 @@ h1,
 h2,
 h3 {
     font-family: "Bookman", "sans-serif";
-    color: #3d5a80;
+    color: #663F46;
+}
+
+p {
+    font-size: 14px;
+    color: #E8F7EE;
+    font-family: "Courier New", "san-serif";
 }
