@@ -1,6 +1,13 @@
 /* ----Structure---- */
 
 body {
-    background-color: #3d5a80;
-    font-family: "Swiss Style", "sans-serif";
+    background-color: #e0fbfc;
+    font-family: "Times", "sans-serif";
+}
+
+h1,
+h2,
+h3 {
+    font-family: "Bookman", "sans-serif";
+    color: #3d5a80;
 }
