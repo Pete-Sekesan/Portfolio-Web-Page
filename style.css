@@ -1,4 +1,15 @@
+/*----Nav----*/
+
+header {
+    text-align: center;
+}
+
+
 /* ----Structure---- */
+
+header {
+    background-color: #E8F7EE;
+}
 
 body {
     background-color: #B8C4BB;
@@ -12,9 +23,21 @@ h3 {
     color: #663F46;
 }
 
+h1 {
+    font-size: 46px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
 p {
-    font-size: 14px;
-    color: #E8F7EE;
+    font-size: 18px;
+    color: #242019;
     font-family: "Courier New", "san-serif";
 }
 
@@ -24,11 +47,11 @@ a {
 }
 
 a:link {
-    color: #C9D6EA;
+    color: #663F46;
 }
 
 a:visited {
-    color: #663F46;
+    color: #460f19;
 }
 
 a:hover {
@@ -37,4 +60,60 @@ a:hover {
 
 a:active {
     color: #4F7ABA;
+}
+
+
+/*----Sections----*/
+
+section {
+    text-align: center;
+}
+
+div {
+    font-family: "Courier New", "san-serif";
+    text-align: center;
+}
+
+
+/*----Footer----*/
+
+footer {
+    text-align: center;
+}
+
+
+/*----Classes----*/
+
+.align-center {
+    text-align: center;
+}
+
+.align-left {
+    text-align: left;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.wrapper {
+    margin: auto;
+    height: 150px;
+}
+
+.btn {
+    display: inline-block;
+    font-family: "Time", "sans-serif";
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    margin: 10px;
+    padding: 6px 12px;
+    border-radius: 6px;
+}
+
+.btn-default {
+    color: #663F46;
+    background-color: #E8F7EE;
+    border: 1px solid #737981;
 }
